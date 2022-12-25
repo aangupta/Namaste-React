@@ -1,4 +1,10 @@
- A framework is a special kind of library that does not contain “finished” functions like a regular library. 
+Q1: What is Emmet?
+Emmet is a set of plug-ins for text editors that allow for high speed coding. 
+It allows you to type shortcuts that are then expanded into full piece of code.
+With the help of Emmet developers can save keystrokes and time.
+
+Q2 : Difference between a Library and Framework?
+A framework is a special kind of library that does not contain “finished” functions like a regular library. 
 Frameworks are rather programme scaffolds that provide the blueprint but not the finished unit.
 The framework, therefore, provides the blueprint and the basic framework and also shows what is still needed from the programmer in terms of customisation.
 On a simple thought, 
