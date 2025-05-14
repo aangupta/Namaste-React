@@ -38,3 +38,18 @@ Parcel is a tool that helps developers build websites and web apps easily. It ta
 # browserlist in package.json 
 browserslist is a section in package.json where we tell tools which browsers our project should support.
 
+
+
+
+
+Chapter: 03
+# JSX
+# React.createElement vs JSX
+# Benefits of JSX
+# Behind the Scenes of JSX
+# Babel & parcel role in JSX
+# Components
+# Functional Components
+- Composing Components
+
+

@@ -1,0 +1,15 @@
+/**
+ * Header
+ *  - Logo
+ *  - Nav Items (Home, About, Card)
+ * Body
+ *  - Search
+ *  - Restaurant Containers 
+ *      - Restaurant Card
+ *          - Img
+ *          - Name of Res, Star Rating, Cuisine
+ * Footer
+ *  - Copyright
+ *  - Links
+ *  - Contact Info
+ */
